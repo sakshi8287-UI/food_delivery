@@ -65,7 +65,7 @@ const Hero = () => {
                         <p className="leading-4 text-sm font-semibold">Super fast<br/> Delivery</p>
                     </div>
                     <div variant="outline" className="bg-red-50 leading-none flex flex-col gap-1 ext-lg px-4 py-2 border-red-200 border absolute lg:top-29
-                    lg:right-20 right-4 rounded-full items-center">
+                    lg:right-17 right-4 rounded-full items-center">
                         <p className="leading-4 lg:text-sm font-semibold">Good Rating</p>
                         <div className="flex">
                             <img src={star} alt="star" width={15} height={15}></img>
@@ -89,3 +89,4 @@ const Hero = () => {
 
 
 export default Hero
+
