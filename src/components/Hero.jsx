@@ -54,7 +54,7 @@ const Hero = () => {
                 </div>
 
                 {/* Right Image */}
-                <div className="lg:w-1/2 flex justify-end mt-25 lg:mt-0">
+                <div className="lg:w-1/2 flex justify-end mt-30 lg:mt-0">
                     <img 
                         src={pizza1} 
                         alt="pizza" 
@@ -86,5 +86,6 @@ const Hero = () => {
         </div>
     )
 }
+
 
 export default Hero
